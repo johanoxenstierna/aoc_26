@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+mgz.egg-info/PKG-INFO
+mgz.egg-info/SOURCES.txt
+mgz.egg-info/dependency_links.txt
+mgz.egg-info/entry_points.txt
+mgz.egg-info/requires.txt
+mgz.egg-info/top_level.txt
+tests/test_fast.py
+tests/test_files.py
+tests/test_model.py
